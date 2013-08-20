@@ -1,6 +1,8 @@
-name: "Digital and Multiplatform Storytelling"
+## Config, just as the title says
 
-# baseurl: ""
+name: "Digital and Multiplatform Storytelling"
+language: en-AU
+baseurl: http://station.claratse.com
 
 permalink: /:title/
 timezone: Australia/Sydney
