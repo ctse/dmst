@@ -1,0 +1,11 @@
+name: "Digital and Multiplatform Storytelling"
+
+# baseurl: ""
+
+permalink: /:title/
+timezone: Australia/Sydney
+
+author:
+  name: Clara Tse
+  url: http://kirinyan.net
+  twitter: hanezawakirika

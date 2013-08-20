@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<dl>{% for post in site.posts %}
+  <dt><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></dt>
+    <dd>{{ post.date | date_to_long_string }}</dd>
+
+{% endfor %}</dl>
+
+<p>Henefenegeneschmenem.</p>
+<p>Rawr.</p>
+
